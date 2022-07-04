@@ -17,14 +17,14 @@ body {
     background-size: cover;
     background-position: center;
   }
-  .maincontainer img.hero {
+  .maincontainer img .hero {
     width: 100%;
     border-radius: 10px 10px 0px 0px;
   }
   img {
     max-width: 100%;
   }
-  
+
 
   .maincontainer h2{
     color: hsl(223, 47%, 23%);
