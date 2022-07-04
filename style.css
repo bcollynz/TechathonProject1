@@ -13,7 +13,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin-top: 10px;
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url("../Images/pattern-background-desktop");
     background-size: cover;
     background-position: center;
   }
