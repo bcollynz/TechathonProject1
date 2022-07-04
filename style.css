@@ -16,6 +16,7 @@ body {
     background-image: url("./Images/pattern-background-desktop");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
   }
   .maincontainer img .hero {
     width: 100%;
